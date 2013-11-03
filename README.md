@@ -7,5 +7,5 @@ args parameter when connectring from your client to the server.
 Sockets con TCP y UDP
 ===============
 Un simple ejemplo de implementación de sockets con los protocolos TCP y UDP.
-Para ejecutar no olvides de indicar el IP de su servidor(127.0.0.1 para localhost) en el<br/>
+Para ejecutar no olvides de indicar el IP de tu servidor(127.0.0.1 para localhost) en el<br/>
 parametro args del método main del cliente para conectarse al servidor.
